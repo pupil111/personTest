@@ -546,3 +546,9 @@ java.net.ConnectException: Connection timed out: connect
 !MESSAGE No repository found containing: org.eclipse.update.feature,org.eclipse.jpt.common.feature,1.4.0.v201405081709-67E-AkF7BJB8CKDFRZ
 !SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2017-06-05 16:00:59.827
 !MESSAGE No repository found containing: org.eclipse.update.feature,org.eclipse.jst.ws.axis2tools.feature,1.1.300.v201405061940-78-FPZDZRDKYKDReDDRe
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-06-05 16:03:52.784
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-06-05 16:03:52.786
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
